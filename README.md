@@ -1,4 +1,4 @@
-<h3> <a href="https://www.youtube.com/watch?v=HgA-oXOV7kI&list=PLxI8Can9yAHdG-xUDj6i-HGB7IAsAU-t1"> Playlist Videos UNIVESP - Engenharia de Computação - Organização de Computadores </a></h3>
+<h3> <a href="https://www.youtube.com/watch?v=HgA-oXOV7kI&list=PLxI8Can9yAHdG-xUDj6i-HGB7IAsAU-t1" target="blank"> Playlist Videos UNIVESP - Engenharia de Computação - Organização de Computadores </a></h3>
 <main>
 <table width="200" cellspacing="1" cellpadding="3" border="0" bgcolor="#165480">
 <tr>
