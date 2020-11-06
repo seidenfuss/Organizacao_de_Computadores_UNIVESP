@@ -1,0 +1,14 @@
+Aula 01 - Abstrações e tecnologias computacionais - Anotações
+Aula 02 - Desempenho de Computadores - Anotações
+Aula 03 - Barreira de potência e multicores - Anotações
+Aula 04 - Programa armazenado e organizações - Barreira de potência e multicores - Anotações
+Aula 05 - Arquitetura do conjunto de instruções - Anotações
+Aula 06 - Conjunto de Instruções do MIPS - Anotações
+Aula 07 - Conjunto de Instruções do MIPS (Parte 2) - Anotações
+Aula 08 - Tradução, compilação e desempenho - Anotações
+Aula 09 - Processador: fluxo de dados - Anotações
+Aula 10 - Organizações paralelas (pipeline) do processador - Anotações
+Aula 11 - Hierarquia de Memória: definições e desempenho - Anotações
+Aula 12 - Memória Cache - Anotações
+Aula 13 – Armazenamento - Anotações
+Aula 14 – Tópicos de entrada e saída - Anotações
